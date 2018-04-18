@@ -1,0 +1,10 @@
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\obj\Debug\AMC1718_Form1.csprojResolveAssemblyReference.cache
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\obj\Debug\AMC1718_Form1.Form1.resources
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\obj\Debug\AMC1718_Form1.Properties.Resources.resources
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\obj\Debug\AMC1718_Form1.csproj.GenerateResource.cache
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\obj\Debug\AMC1718_Form1.csproj.CoreCompileInputs.cache
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\bin\Debug\AMC1718_Form1.exe.config
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\bin\Debug\AMC1718_Form1.exe
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\bin\Debug\AMC1718_Form1.pdb
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\obj\Debug\AMC1718_Form1.exe
+C:\Users\Nombre\source\repos\amartinezchazarra\practicaTema5\AMC1718_Form1\obj\Debug\AMC1718_Form1.pdb
